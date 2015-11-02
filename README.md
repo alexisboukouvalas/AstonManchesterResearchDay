@@ -9,12 +9,18 @@ Directions: https://goo.gl/maps/mJ7697o3mtj
 |------------- | -------------|------------|
 |11:00| Magnus Rattray| TBA  |
 |11:30| Max Little | Signal processing of biophysical time series data |
-|12:30 | Mudassar Iqbal	 | ?  |
-|12:30 | Lunch | |
-|13:30 | James Hensman | ? |
-|14:00 | Siddharth Arora | ? |
-|14:30 | Yordan Raykov	 | ? |
-|15:00 | Discussion with tea/coffee |  |
-|16:00 | Departure and break-out session |  |
+|12:00 | Panagiotis Papastamoulis | |
+|12:30 | Mudassar Iqbal	 | Sparse Factor analysis?  |
+|13:00 | Lunch | |
+|13:30 | Tomasz Dzida | |
+|13:40 | Maria Myrto Folia | |
+|13:50 | Rebecca Howard | |
+|14:00 | Jing Yang | Gaussian Process with Bifurcation points? |
+|14:30 | Siddharth Arora | Time-series forecasting? |
+|15:00 | Yordan Raykov	 | Infinite Hidden Markov Model / Non-parametric Clustering of Parkinsons? |
+|15:30 | Lijing | CLustering Asthma? |
+|15:30 | Discussion with tea/coffee |  |
+|16:30 | Departure and break-out session |  |
+
 
 
