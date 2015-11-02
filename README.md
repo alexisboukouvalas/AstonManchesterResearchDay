@@ -17,10 +17,11 @@ Directions: https://goo.gl/maps/mJ7697o3mtj
 |13:50 | Rebecca Howard | 10 minute review of PhD work |
 |14:00 | Jing Yang | Gaussian Process with Bifurcation points? |
 |14:30 | Siddharth Arora | Time-series forecasting? |
-|15:00 | Yordan Raykov	 | Infinite Hidden Markov Model / Non-parametric Clustering of Parkinsons? |
-|15:30 | Lijing | Clustering Asthma? |
-|16:00 | Discussion with tea/coffee |  |
-|16:30 | Departure and break-out session |  |
+|15:00 | Coffee and tea break | |
+|15:30 | Yordan Raykov	 | Infinite Hidden Markov Model / Non-parametric Clustering of Parkinsons? |
+|16:00 | Lijing | Clustering Asthma? |
+|16:30 | Discussion with tea/coffee |  |
+|17:00 | Departure and break-out sessions |  |
 
 
 
