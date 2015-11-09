@@ -1,4 +1,4 @@
-# Aston Manchester Research Day
+# Aston Manchester Research Day Friday November 27
 
 ## Timetable
 Meeting to be held at Michael Smith Building, room **A.4025/6**, 11AM to 4PM.
