@@ -12,7 +12,7 @@ Directions: https://goo.gl/maps/mJ7697o3mtj
 |12:00 | Panagiotis Papastamoulis | Differential expression analysis? |
 |12:30 | Lunch | |
 |13:30 | Jing Yang | Gaussian Process with Bifurcation points? |
-|14:00 | Siddharth Arora | Time-series forecasting? |
+|14:00 | Siddharth Arora | Statistical Methodologies for Probabilistic Time Series Forecasting |
 |14:30 | Coffee and tea break | |
 |15:00 | Yordan Raykov	 | Infinite Hidden Markov Model / Non-parametric Clustering of Parkinsons? |
 |15:30 | Discussion |  |
