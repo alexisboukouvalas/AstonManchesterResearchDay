@@ -7,7 +7,7 @@ Directions: https://goo.gl/maps/mJ7697o3mtj
 
 |Time | Presenter | Topic |
 |------------- | -------------|------------|
-|11:00| Magnus Rattray| TBA  |
+|11:00| Magnus Rattray| Gaussian process modelling of transcription  |
 |11:30| Max Little | Signal processing of biophysical time series data |
 |12:00 | Panagiotis Papastamoulis | Differential expression analysis? |
 |12:30 | Lunch | |
